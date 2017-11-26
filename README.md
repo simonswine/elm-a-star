@@ -10,7 +10,7 @@ Built in the aftermath of [West London Hack Night][wlhn] on 23rd of November,
 2017. At the hack night itself the focus was on [this][clojure] implementation
 in Clojure.
 
-[![Docker Automated build](https://img.shields.io/docker/automated/simonswine/elm-a-star.svg)](https://hub.docker.com/r/simonswine/elm-a-star/)
+[![Docker Automated build](https://img.shields.io/docker/build/simonswine/elm-a-star.svg)](https://hub.docker.com/r/simonswine/elm-a-star/)
 
 ## [Demo][demo]
 
